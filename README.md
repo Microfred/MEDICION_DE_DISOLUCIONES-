@@ -1,10 +1,11 @@
 # 🔬 FUNDAMENTOS DE LA MEDICIÓN DE DISOLUCIONES: Guía Técnica (ENCB-IPN)
+### Dr. Juan Alfredo Hernández García 
 
 ## 📌 1. Importancia y Relevancia Clínica
 
 La medición de concentraciones es la base del diagnóstico clínico y la dosificación farmacológica. Un error en la unidad o en la conversión puede llevar a una interpretación o un tratamiento fatal.
 
-* **Diagnóstico:** El 90% de los análisis de laboratorio (Glucosa, Sodio, Creatinina) dependen de la correcta medición de disoluciones.
+* **Diagnóstico:** El 90% de los análisis de laboratorio (Glucosa, sodio, creatinina) dependen de la correcta medición de disoluciones.
 * **Farmacología:** La dosis es un volumen de una concentración perfectamente conocida ($C_1$).
 * **Sueroterapia:** La elección de una solución (ej. Salina 0.9%) depende de su concentración, crucial para el balance hidroelectrolítico del paciente.
 
