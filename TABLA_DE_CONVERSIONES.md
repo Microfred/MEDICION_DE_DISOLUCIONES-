@@ -46,3 +46,48 @@ Las conversiones se realizan principalmente en incrementos de $10^3$.
     * *Ejemplo:* Para convertir $0.5~\text{g}$ a $\text{mg}$: $0.5 \times 1000 = 500~\text{mg}$.
 * **De unidad PEQUEÑA a unidad GRANDE:** **Dividir** por el factor.
     * *Ejemplo:* Para convertir $250~\mu\text{L}$ a $\text{mL}$: $250 \div 1000 = 0.25~\text{mL}$.
+---
+
+ 
+ # 🌐 TABLA COMPLETA DE PREFIJOS MÉTRICOS (Yotta a Yocto)
+
+Esta tabla contiene todos los prefijos del Sistema Internacional (SI) utilizados para expresar múltiplos y submúltiplos de las unidades base ($\mathbf{10^0}$).
+
+---
+
+## 1. Múltiplos Grandes (Factores Positivos)
+
+| Prefijo | Símbolo | Factor Exponencial | Factor Decimal |
+| :--- | :--- | :--- | :--- |
+| **Yotta** | $\text{Y}$ | $10^{24}$ | $1,000,000,000,000,000,000,000,000$ |
+| **Zetta** | $\text{Z}$ | $10^{21}$ | $1,000,000,000,000,000,000,000$ |
+| **Exa** | $\text{E}$ | $10^{18}$ | $1,000,000,000,000,000,000$ |
+| **Peta** | $\text{P}$ | $10^{15}$ | $1,000,000,000,000,000$ |
+| **Tera** | $\text{T}$ | $10^{12}$ | $1,000,000,000,000$ |
+| **Giga** | $\text{G}$ | $10^9$ | $1,000,000,000$ |
+| **Mega** | $\text{M}$ | $10^6$ | $1,000,000$ |
+| **Kilo** | $\text{k}$ | $10^3$ | $1,000$ |
+| **Hecto** | $\text{h}$ | $10^2$ | $100$ |
+| **Deca** | $\text{da}$ | $10^1$ | $10$ |
+| **UNIDAD BASE** | | $10^0$ | $1$ |
+
+---
+
+## 2. Submúltiplos Pequeños (Factores Negativos)
+
+| Prefijo | Símbolo | Factor Exponencial | Factor Decimal |
+| :--- | :--- | :--- | :--- |
+| **Deci** | $\text{d}$ | $10^{-1}$ | $0.1$ |
+| **Centi** | $\text{c}$ | $10^{-2}$ | $0.01$ |
+| **Mili** | $\text{m}$ | $10^{-3}$ | $0.001$ |
+| **Micro** | $\mu$ | $10^{-6}$ | $0.000001$ |
+| **Nano** | $\text{n}$ | $10^{-9}$ | $0.000000001$ |
+| **Pico** | $\text{p}$ | $10^{-12}$ | $0.000000000001$ |
+| **Femto** | $\text{f}$ | $10^{-15}$ | $0.000000000000001$ |
+| **Atto** | $\text{a}$ | $10^{-18}$ | $0.000000000000000001$ |
+| **Zepto** | $\text{z}$ | $10^{-21}$ | $0.000000000000000000001$ |
+| **Yocto** | $\text{y}$ | $10^{-24}$ | $0.000000000000000000000001$ |
+
+---
+
+
